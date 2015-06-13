@@ -1,0 +1,14 @@
+dependencies: \
+  /Users/nazirdogan/Downloads/ti-estimotes-proximity/build/iphone/Classes/TiBindingRunLoop.m \
+  /Users/nazirdogan/Downloads/ti-estimotes-proximity/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/nazirdogan/Downloads/ti-estimotes-proximity/build/iphone/Classes/KrollContext.h \
+  headers/JavaScriptCore/TiCore.h headers/JavaScriptCore/Ti.h \
+  headers/JavaScriptCore/TiBase.h headers/JavaScriptCore/TiContextRef.h \
+  headers/JavaScriptCore/TiObjectRef.h \
+  headers/JavaScriptCore/TiValueRef.h \
+  headers/JavaScriptCore/WebKitAvailability.h \
+  headers/JavaScriptCore/TiStringRef.h \
+  headers/JavaScriptCore/TiStringRefCF.h \
+  /Users/nazirdogan/Downloads/ti-estimotes-proximity/build/iphone/Classes/TiBase.h \
+  /Users/nazirdogan/Downloads/ti-estimotes-proximity/build/iphone/Classes/TiThreading.h \
+  /Users/nazirdogan/Downloads/ti-estimotes-proximity/build/iphone/Classes/TiPublicAPI.h
